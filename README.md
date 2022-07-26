@@ -2,3 +2,6 @@
 
 name: a
 gender: m
+
+name: basel
+gender: male
